@@ -2,6 +2,7 @@
 #define STOCK_H_
 #include<string>
 #include<iostream>
+//test
 class Stock {
 public:
 	std::string company;
